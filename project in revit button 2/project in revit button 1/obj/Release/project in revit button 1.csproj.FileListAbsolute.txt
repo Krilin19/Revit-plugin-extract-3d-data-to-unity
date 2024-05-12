@@ -1,0 +1,6 @@
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Release\project in revit button 1.csprojResolveAssemblyReference.cache
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Release\UserControl1.g.cs
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Release\UserControl2.g.cs
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Release\UserControl3.g.cs
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Release\project in revit button 1_MarkupCompile.cache
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Release\project in revit button 1_MarkupCompile.lref

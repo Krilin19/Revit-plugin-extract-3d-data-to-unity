@@ -1,0 +1,151 @@
+c:\users\alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\project in revit button 1.dll
+c:\users\alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\project in revit button 1.pdb
+c:\users\alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.dll
+c:\users\alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.pdb
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project_in_revit_button_1.Form1.resources
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project_in_revit_button_1.User_interfac_custom_buttons.resources
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.csproj.GenerateResource.Cache
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project_in_revit_button_1.Form2.resources
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\UserControl1.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.cache
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.lref
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\UserControl1.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.g.resources
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\DBLibrary.dll
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\DBLibrary.pdb
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\UserControl2.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\UserControl2.baml
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\UserControl3.g.cs
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Alex\documents\visual studio 2017\Projects\project in revit button 1\project in revit button 1\obj\Debug\UserControl3.baml
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\project in revit button 1.dll
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\project in revit button 1.pdb
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\Xamarin.Forms.Core.dll
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.dll
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.dll
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\DBLibrary.pdb
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\Xamarin.Forms.Core.pdb
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\Xamarin.Forms.Core.xml
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.pdb
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.pdb
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.xml
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project in revit button 1.csprojResolveAssemblyReference.cache
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\UserControl1.g.cs
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\UserControl2.g.cs
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\UserControl3.g.cs
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.cache
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.lref
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\UserControl1.baml
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\UserControl2.baml
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\UserControl3.baml
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project in revit button 1.g.resources
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project_in_revit_button_1.Form1.resources
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project_in_revit_button_1.Form2.resources
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project_in_revit_button_1.User_interfac_custom_buttons.resources
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project in revit button 1.csproj.GenerateResource.Cache
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project in revit button 1.csproj.CoreCompileInputs.cache
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project in revit button 1.dll
+T:\Transfer\lopez\project in revit button 1(back up from Laptop)\project in revit button 1\obj\Debug\project in revit button 1.pdb
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\project in revit button 1.dll
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\project in revit button 1.pdb
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\DBLibrary.dll
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Core.dll
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\DBLibrary.pdb
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Core.xml
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.csprojResolveAssemblyReference.cache
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\UserControl1.g.cs
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\UserControl2.g.cs
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\UserControl3.g.cs
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.cache
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.lref
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\UserControl1.baml
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\UserControl2.baml
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\UserControl3.baml
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.g.resources
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project_in_revit_button_1.Form1.resources
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project_in_revit_button_1.Form2.resources
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project_in_revit_button_1.User_interfac_custom_buttons.resources
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.csproj.GenerateResource.Cache
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.csproj.CoreCompileInputs.cache
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.dll
+D:\lopez\Documents\Visual Studio 2017\project in revit button 1\project in revit button 1\obj\Debug\project in revit button 1.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\project in revit button 1.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\project in revit button 1.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Rhino3dmIO.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.xml
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl1.g.cs
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl2.g.cs
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl3.g.cs
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.cache
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.lref
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl1.baml
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl2.baml
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl3.baml
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.g.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form1.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form2.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form3.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Properties.Resources.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.User_interfac_custom_buttons.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.csproj.GenerateResource.Cache
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.csproj.CoreCompileInputs.cache
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\project in revit button 1.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\project in revit button 1.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Rhino3dmIO.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl1.g.cs
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl2.g.cs
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl3.g.cs
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.lref
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl1.baml
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl2.baml
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl3.baml
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.g.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form2.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form3.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.User_interfac_custom_buttons.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.csprojResolveAssemblyReference.cache
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form_for_door_Schedule.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form_for_room_Schedule.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form4.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form5.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Filter_for_exporter.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form6.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form7.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form8.resources

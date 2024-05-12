@@ -1,0 +1,286 @@
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Rhino3dmIO.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.xml
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.GenerateResource.Cache
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Rhino3dmIO.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.GenerateResource.Cache
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\project in revit button 1.dll
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\project in revit button 1.pdb
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Rhino3dmIO.dll
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csprojResolveAssemblyReference.cache
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl1.g.cs
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl2.g.cs
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl3.g.cs
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.cache
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1_MarkupCompile.lref
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl1.baml
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl2.baml
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\UserControl3.baml
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.g.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Filter_for_exporter.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form1.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form10.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form11.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form2.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form3.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form4.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form5.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form6.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form7.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form8.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form9.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form_for_room_Schedule.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form_for_door_Schedule.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Properties.Resources.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.User_interfac_custom_buttons.resources
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.GenerateResource.Cache
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.CoreCompileInputs.cache
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.dll
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project in revit button 1.pdb
+C:\Users\Lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\project_in_revit_button_1.Form12.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csprojResolveAssemblyReference.cache
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Filter_for_exporter.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form1.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form10.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form11.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form12.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form13.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form14.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form15.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form2.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form3.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form4.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form5.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form6.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form7.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form8.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form9.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form_for_room_Schedule.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form_for_door_Schedule.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Properties.Resources.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.User_interfac_custom_buttons.resources
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AJC_Commands_1.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AJC_Commands_1.pdb
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.dll
+D:\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.pdb
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AJC_Commands_1.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AJC_Commands_1.pdb
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Filter_for_exporter.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form1.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form10.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form11.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form12.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form13.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form14.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form15.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form2.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form3.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form4.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form5.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form6.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form7.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form8.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form9.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form_for_room_Schedule.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form_for_door_Schedule.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Properties.Resources.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.User_interfac_custom_buttons.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.GenerateResource.Cache
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.CoreCompileInputs.cache
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.pdb
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form16.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\librhino3dmio_native.dylib
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Win32\librhino3dmio_native.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Win64\librhino3dmio_native.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Rhino3dmIO.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AdWindows.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\en-US\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Warning.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form18.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form19.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Win32\librhino3dmio_native.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\Win64\librhino3dmio_native.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\librhino3dmio_native.dylib
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AJC_Commands_1.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AJC_Commands_1.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Filter_for_exporter.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form10.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form11.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form12.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form13.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form14.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form15.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form16.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Warning.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form18.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form19.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form2.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form3.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form4.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form5.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form6.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form7.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form8.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form9.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form_for_room_Schedule.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form_for_door_Schedule.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.User_interfac_custom_buttons.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.pdb
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\RevitAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\RevitAPI.xml
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form20.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form21.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form22.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form23.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form24.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form25.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\RevitAPIFoundation.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\RevitDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\PersistenceDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\UtilityAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\APIDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\GraphicsAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\ElementGroupDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\EssentialsDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\GeomUtilAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\FamilyDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\DetailDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\ArrayElemsDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\BuildingSystemsDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\HostObjDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\SiteDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\SculptingDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\StructuralDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\InterfaceAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\InterfaceUtilAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\RebarDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\MassingDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AssemblyDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\DPartDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\NumberingDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\PointCloudAccessAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\StairRampDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\AnalysisAppsDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\MaterialDBAPI.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\DBManagedServices.dll
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form26.resources
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csprojAssemblyReference.cache
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.CopyComplete
+D:\Users\lopez\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form27.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form23.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form24.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form25.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form26.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form27.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form22.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form20.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form21.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\bin\Debug\RevitAPI.xml
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.CopyComplete
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\Win32\librhino3dmio_native.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\Win64\librhino3dmio_native.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\librhino3dmio_native.dylib
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\AJC_Commands_1.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\AJC_Commands_1.pdb
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\Rhino3dmIO.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\RevitAPI.xml
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\en-US\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csprojAssemblyReference.cache
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Filter_for_exporter.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form1.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form10.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form11.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form12.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form13.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form14.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form15.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form16.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Warning.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form18.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form19.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form2.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form23.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form24.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form25.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form26.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form27.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form22.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form20.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form21.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form3.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form4.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form5.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form6.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form7.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form8.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form9.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form_for_room_Schedule.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Form_for_door_Schedule.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.Properties.Resources.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.User_interfac_custom_buttons.resources
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.GenerateResource.cache
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJ+C_Revit_Commands.csproj.CopyComplete
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.dll
+D:\Projects\project in revit button 2\project in revit button 1\obj\Debug\AJC_Commands_1.pdb

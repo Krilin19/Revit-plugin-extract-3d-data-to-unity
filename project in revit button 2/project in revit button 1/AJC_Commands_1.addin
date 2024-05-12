@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AJ+C Revit Commands</Name>
+    <Assembly>AJC_Commands\AJC_Commands_1.dll</Assembly>
+    <FullClassName>BoostYourBIM.ribbonUI</FullClassName>
+    <ClientId>54C32EA6-DDF8-4ED0-BAE0-7468DE9BC0F6</ClientId>
+    <VendorId>A+JC</VendorId>
+    <VendorDescription>Alexander lopez , Alex.Lopez@architectsajc.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
